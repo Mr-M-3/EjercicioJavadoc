@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"javadoc","c":"ValidarDNI","l":"ValidarDNI()","u":"%3Cinit%3E()"},{"p":"javadoc","c":"ValidarDNI","l":"validarDniNie(String)","u":"validarDniNie(java.lang.String)"}];updateSearchResults();
